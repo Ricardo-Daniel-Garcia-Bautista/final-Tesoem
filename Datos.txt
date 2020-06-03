@@ -1,0 +1,6 @@
+{"Nombre":"Persona Numero 1","Edad":"20","Sexo":"Masculino"}
+{"Nombre":"Persona Numero 2","Edad":"21","Sexo":"Masculino"}
+{"Nombre":"Persona Numero 3","Edad":"19","Sexo":"Femenino"}
+{"Nombre":"Persona Numero 4","Edad":"18","Sexo":"Masculino"}
+{"Nombre":"Persona Numero 5","Edad":"22","Sexo":"Femenino"}
+{"Nombre":"Persona Numero 6","Edad":"23","Sexo":"Masculino"}
