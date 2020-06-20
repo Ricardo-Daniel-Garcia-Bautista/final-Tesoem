@@ -11,9 +11,26 @@ package archivoslist;
  */
 public class Atributos {
     
+    String Matricula;
+    String Correo;
     String Nombre;
-    String Edad;
-    String Sexo;
+    String Promedio;
+
+    public String getMatricula() {
+        return Matricula;
+    }
+
+    public void setMatricula(String Matricula) {
+        this.Matricula = Matricula;
+    }
+
+    public String getCorreo() {
+        return Correo;
+    }
+
+    public void setCorreo(String Correo) {
+        this.Correo = Correo;
+    }
 
     public String getNombre() {
         return Nombre;
@@ -23,21 +40,13 @@ public class Atributos {
         this.Nombre = Nombre;
     }
 
-    public String getEdad() {
-        return Edad;
+    public String getPromedio() {
+        return Promedio;
     }
 
-    public void setEdad(String Edad) {
-        this.Edad = Edad;
+    public void setPromedio(String Promedio) {
+        this.Promedio = Promedio;
     }
 
-    public String getSexo() {
-        return Sexo;
-    }
-
-    public void setSexo(String Sexo) {
-        this.Sexo = Sexo;
-    }
-    
     
 }

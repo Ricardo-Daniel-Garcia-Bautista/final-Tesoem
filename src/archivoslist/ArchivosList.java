@@ -16,7 +16,7 @@ public class ArchivosList {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        new FrmPrincipal().setVisible(true);
+        new FrmBienvenido().setVisible(true);
     }
     
 }
